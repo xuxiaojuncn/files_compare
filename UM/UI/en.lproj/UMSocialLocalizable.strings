@@ -71,6 +71,13 @@
 "share_facebook_no_osSupport" = "iOS doesn't support";
 "share_facebook_no_osSupport_message" = "The version of your iOS device doesn't support share the that media";
 
+"share_alipay" = "Share to AlipayShare";
+"share_alipay_friend" = "Share to AlipayShare friends";
+"share_alipay_moments" = "Share to AlipayShare Timeline";
+"share_alipay_no_title" = "No Alipay";
+"share_alipay_no_message" = "Alipay not installed in device";
+"share_alipay_version_not_supported" = "The version of Alipay not supported.";
+
 "share_sms_no_osSupport" = "No SMS";
 "share_sms_no_osSupport_message" = "The device doesn't support SMS";
 
@@ -128,6 +135,10 @@
 "umsocial_qq" = "QQ";
 "umsocial_qzone" = "Qzone";
 "umsocial_tencentWB" = "tencentWB";
+
+"umsocial_alipay" = "alipay";
+"umsocial_alipay_session" = "Alipay";
+"umsocial_aliay_circle" = "LifeCircle";
 
 "umsocial_lw_session" = "LaiWang";
 "umsocial_lw_timeline" = "LW News";
